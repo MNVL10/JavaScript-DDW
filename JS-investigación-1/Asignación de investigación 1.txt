@@ -1,0 +1,1 @@
+https://github.com/cienvaras/cetav-js1-wiki/wiki/string-startswith-endswith
